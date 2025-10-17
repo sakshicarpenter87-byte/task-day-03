@@ -8,4 +8,6 @@ res=res*a;
 
 }
 printf("result is %d",res);
+    return 0;
 }
+
