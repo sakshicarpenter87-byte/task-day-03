@@ -9,5 +9,6 @@ if(n==m)
 printf("the number is even");
 else
 printf("the number is odd");
+return 0;
 
 }
